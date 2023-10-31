@@ -5,7 +5,9 @@ Link -
 
 ## Tabular diverse set of data types
 - Colab Link - https://colab.research.google.com/drive/1CZAbG6ePPqPYevMF8TfXWG4M_-o7uz1y?usp=sharing
-- Sagemaker - 
+- AutoML - AWS Sagemaker Studio Data Wrangler Flow for EDA and experimentation
+<img width="1440" alt="image" src="https://github.com/Vijitha-sjsu/DM-Data-Prep-and-Proc-Assignment/assets/143654610/c55713e5-d4ec-4a3d-aa78-d34e8da3907e">
+
 
 ## Time-series data
 - Colab link - https://colab.research.google.com/drive/1V5PP6Z1Q8DmKukPRJOND-XIy2FZDnyMp?usp=sharing
