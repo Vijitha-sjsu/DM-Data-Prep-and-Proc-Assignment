@@ -21,3 +21,6 @@ Link -
 
 ## Video data
 - Colab link - https://colab.research.google.com/drive/10CpapIISLijccjAIK9inKsGA8pyKv_2q?usp=sharing
+
+## Graph data
+- Colab link - https://colab.research.google.com/drive/1N6Oiv4JNI1Hj5btWvdbOFs9z53KNpfHb?usp=sharing
