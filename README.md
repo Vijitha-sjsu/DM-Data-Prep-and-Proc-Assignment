@@ -1,7 +1,7 @@
 # DM-Data-Prep-and-Proc-Assignment
 
 ## Medium Acrticle Link
-Link - 
+Link - https://medium.com/@vijitha.gunta/deep-dive-into-diverse-dataset-analysis-using-chatgpt-automl-2fe6268d2f4a
 
 ## Tabular diverse set of data types
 - Colab Link - https://colab.research.google.com/drive/1CZAbG6ePPqPYevMF8TfXWG4M_-o7uz1y?usp=sharing
